@@ -1,3 +1,4 @@
-# golang
+# golang 学习笔记
 ----
-a
+ - 基本语法
+ - golang包
